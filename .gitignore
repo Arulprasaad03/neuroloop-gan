@@ -1,0 +1,21 @@
+# Data and models
+data/
+*.csv
+*.pkl
+*.joblib
+
+# Output
+*.png
+*.pdf
+*.log
+
+# Python stuff
+__pycache__/
+*.pyc
+
+results/
+venv/
+runs/
+tensorboard/
+models/model_epoch_*.pth
+checkpoints/
