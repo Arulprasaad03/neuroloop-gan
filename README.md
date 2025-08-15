@@ -1,4 +1,4 @@
-# 🧠 NeuroLoop GAN: Learning Structured Representations with Wasserstein GAN
+# 🧠 NeuroLoop GAN: Learning Structured Facial Representations with Wasserstein GAN
 
 **NeuroLoop GAN** is a deep generative model built on **Wasserstein GAN with Gradient Penalty (WGAN-GP)**, designed to generate structured, realistic patterns in cyclic or looped domains. Inspired by recurrent biological and cognitive signal loops, this architecture is suitable for tasks such as structured face synthesis, temporal emotion transitions, and medical signal generation.
 
